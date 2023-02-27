@@ -18,4 +18,3 @@ function bar(num) {
 
 bar(5);
 bar(4);
-bar(8);
